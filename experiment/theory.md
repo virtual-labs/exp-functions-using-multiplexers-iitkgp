@@ -1,4 +1,4 @@
-### Link your theory in here
+
  Theory
                         </div><!-- Write the section content inside a paragraph element, we can also include images with &lt;img&gt; tag -->
 <div class="content" id="experiment-article-section-2-content">                            

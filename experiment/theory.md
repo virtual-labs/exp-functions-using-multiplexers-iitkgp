@@ -1,6 +1,5 @@
-### Link your theory in here
- Theory
-                        </div><!-- Write the section content inside a paragraph element, we can also include images with &lt;img&gt; tag -->
+## Theory
+
 <div class="content" id="experiment-article-section-2-content">                            
         74153 is a dual 4 line-to-1 line multiplexer. It has the schematic representation shown in Fig 1. Selection lines A and B select the particular input to be multiplexed and applied to the output IY{1 = 1, 2}.Each of the strobe signals IG {I = 1, 2} acts as an enable signal for the corresponding
 multiplexer.Figure 2(a) &amp; 2(b) shows the multiplex function of 74153 in terms of select lines. Note that each of the on-chip multiplexers act independently from the other, while sharing the same select lines A and B.

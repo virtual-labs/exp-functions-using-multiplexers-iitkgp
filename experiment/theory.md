@@ -1,6 +1,4 @@
-### Link your theory in here
- Theory
-                        </div><!-- Write the section content inside a paragraph element, we can also include images with &lt;img&gt; tag -->
+## Theory
 <div class="content" id="experiment-article-section-2-content">                            
         74153 is a dual 4 line-to-1 line multiplexer. It has the schematic representation shown in Fig 1. Selection lines A and B select the particular input to be multiplexed and applied to the output IY{1 = 1, 2}.Each of the strobe signals IG {I = 1, 2} acts as an enable signal for the corresponding
 multiplexer.Figure 2(a) &amp; 2(b) shows the multiplex function of 74153 in terms of select lines. Note that each of the on-chip multiplexers act independently from the other, while sharing the same select lines A and B.
@@ -417,32 +415,21 @@ select line.
                              <td>H</td>
                              <td>H</td>
                              </tr>
-                             
-                             
+                                                     
   </table>
-                            
-                            
-                            
-                            
+                                                       
 <br />
                              Figure 4(d)&nbsp;x:don't care state
-                            <br /><br />
                             
 <img src="images/74157circuit.gif"  style="width:500px;height:400px;"/>
                              <br />
         The above circuit diagram shows the detail gate level structure of 74157(Quad 2 line to 1 line Multiplexer)
                             <br />
-                            <br />
-                            
-               
-                            
- </div>
                              
     74151 is a 8 line-to-1 line multiplexer. It has the schematic representation shown in Fig 5. Three select lines(A,B,C)  select the particular input to be multiplexed and
 applied to the output Y,  
 <font style="text-decoration:overline">Y</font> is the inverted output of the original outpu(Y).  
 <font style="text-decoration:overline">Strobe</font> signal or <font style="text-decoration:overline">Enable</font> signal should be low to ensure proper multiplexing operation.If Enable is made high,then the output Y will always be low irrespective of any logic levels asserted by select lines A, B, C and the eight inputs.  
-
 
 <br />
 <br />
@@ -820,5 +807,3 @@ Figure 5(a)
                              
 <br />
                              Figure 5(b):&nbsp;Truth Table
-
- </div>

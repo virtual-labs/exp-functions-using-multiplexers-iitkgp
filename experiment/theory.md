@@ -23,7 +23,19 @@ This experiment enables a student to learn
 <p>Figure 1(74153)</p>
 </div>
                           
-                            
+Strobe | Select      |  Outputs 
+1G     | A     | B   | 1Y
+:--|:--|:--|:--|
+1|x|x|0
+0|0|0|1C0
+0|0|0|1C1
+0|0|0|1C2
+0|0|0|1C3
+
+
+
+
+
                            
 <table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
                              
@@ -80,10 +92,8 @@ This experiment enables a student to learn
                              </tr>
                              
 </table>
-                             <br />
                              Figure 2(a)&nbsp;x:don't care state
-                             <br />
-                             <br />
+                           
                              
                              
  <table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
@@ -164,7 +174,9 @@ select line.
                             Figure 3(74157)
                            </p>
                            </div>
-                            
+
+
+
                            
  <table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
                              

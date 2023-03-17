@@ -89,15 +89,15 @@ Figure 2(a)&nbsp;x:don't care state
                            
                              
                              
- <table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
+ <table>
                              
- <tr bgcolor="#FFFFCC">
+ <tr >
                              <td>Strobe</td>
                              <td colspan="2">Select Lines</td>
                              <td>Outputs</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr >
                              <td>2G</td>
                              <td >A</td>
                              <td >B</td>
@@ -105,7 +105,7 @@ Figure 2(a)&nbsp;x:don't care state
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr >
                              <td>1</td>
                              <td >x</td>
                              <td >x</td>
@@ -113,7 +113,7 @@ Figure 2(a)&nbsp;x:don't care state
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr >
                              <td>0</td>
                              <td >0</td>
                              <td >0</td>
@@ -122,21 +122,21 @@ Figure 2(a)&nbsp;x:don't care state
                              
                              
                              
-  <tr bgcolor="#FFFFCC">
+  <tr>
                              <td>0</td>
                              <td >0</td>
                              <td >1</td>
                              <td>2C1</td>
                              </tr>
                              
-  <tr bgcolor="#FFFFCC">
+  <tr>
                              <td>0</td>
                              <td >1</td>
                              <td >0</td>
                              <td>2C2</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>0</td>
                              <td >1</td>
                              <td >1</td>
@@ -171,16 +171,16 @@ select line.
 
 
                            
- <table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
+ <table>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td rowspan="2">Strobe</td>
                              <td rowspan="2">Select</td>
                              <td colspan="2">Inputs</td>
                              <td>Outputs</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              
 <td >A1</td>
                              <td >B1</td>
@@ -188,7 +188,7 @@ select line.
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>H</td>
                              <td >x</td>
                              <td >x</td>
@@ -197,7 +197,7 @@ select line.
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >L</td>
@@ -207,7 +207,7 @@ select line.
                              
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >H</td>
@@ -215,7 +215,7 @@ select line.
                              <td>H</td>
                              </tr>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>L</td>
                              <td >H</td>
                              <td >x</td>
@@ -223,7 +223,7 @@ select line.
                              <td>L</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >x</td>
@@ -238,16 +238,16 @@ select line.
                              <br />
                              
                              
-<table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
+<table>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td rowspan="2">Strobe</td>
                              <td rowspan="2">Select</td>
                              <td colspan="2">Inputs</td>
                              <td>Outputs</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              
 <td >A2</td>
                              <td >B2</td>
@@ -255,7 +255,7 @@ select line.
                              </tr>
                              
                              
-  <tr bgcolor="#FFFFCC">
+  <tr>
                              <td>H</td>
                              <td >x</td>
                              <td >x</td>
@@ -264,7 +264,7 @@ select line.
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >L</td>
@@ -274,7 +274,7 @@ select line.
                              
                              
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>L</td>
                              <td >L</td>
                              <td >H</td>
@@ -282,7 +282,7 @@ select line.
                              <td>H</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >x</td>
@@ -290,7 +290,7 @@ select line.
                              <td>L</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >x</td>
@@ -305,16 +305,16 @@ select line.
                             <br /><br />
                             
                             
- <table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
+ <table>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td rowspan="2">Strobe</td>
                              <td rowspan="2">Select</td>
                              <td colspan="2">Inputs</td>
                              <td>Outputs</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              
  <td >A3</td>
                              <td >B3</td>
@@ -322,7 +322,7 @@ select line.
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>H</td>
                              <td >x</td>
                              <td >x</td>
@@ -331,7 +331,7 @@ select line.
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >L</td>
@@ -341,7 +341,7 @@ select line.
                              
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >H</td>
@@ -349,7 +349,7 @@ select line.
                              <td>H</td>
                              </tr>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>L</td>
                              <td >H</td>
                              <td >x</td>
@@ -357,7 +357,7 @@ select line.
                              <td>L</td>
                              </tr>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>L</td>
                              <td >H</td>
                              <td >x</td>
@@ -373,16 +373,16 @@ select line.
                             <br /><br />
                             
                             
- <table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
+ <table>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td rowspan="2">Strobe</td>
                              <td rowspan="2">Select</td>
                              <td colspan="2">Inputs</td>
                              <td>Outputs</td>
                              </tr>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              
 <td >A4</td>
                              <td >B4</td>
@@ -390,7 +390,7 @@ select line.
                              </tr>
                              
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>H</td>
                              <td >x</td>
                              <td >x</td>
@@ -399,7 +399,7 @@ select line.
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >L</td>
@@ -409,7 +409,7 @@ select line.
                              
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >H</td>
@@ -417,7 +417,7 @@ select line.
                              <td>H</td>
                              </tr>
                              
-  <tr bgcolor="#FFFFCC">
+  <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >x</td>
@@ -425,7 +425,7 @@ select line.
                              <td>L</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >x</td>
@@ -475,16 +475,16 @@ Figure 5(a)
 </p>
 </div>
 
-<table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
+<table>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td rowspan="2">Strobe</td>
                              <td colspan="3">Select Lines</td>
                              <td colspan="8" align="center">Inputs</td>
                              <td colspan="2">Outputs</td>
                              </tr>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              
  <td >A</td>
                              <td >B</td>
@@ -502,7 +502,7 @@ Figure 5(a)
                              </tr>
                              
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>H</td>
                              <td >X</td>
                              <td >X</td>
@@ -520,7 +520,7 @@ Figure 5(a)
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >L</td>
@@ -542,7 +542,7 @@ Figure 5(a)
                             
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >L</td>
@@ -560,7 +560,7 @@ Figure 5(a)
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >L</td>
@@ -578,7 +578,7 @@ Figure 5(a)
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >L</td>
@@ -596,7 +596,7 @@ Figure 5(a)
                              </tr>
                             
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >H</td>
@@ -614,7 +614,7 @@ Figure 5(a)
                              </tr>
                              
                              
-  <tr bgcolor="#FFFFCC">
+  <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >H</td>
@@ -632,7 +632,7 @@ Figure 5(a)
                              </tr>
                              
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>L</td>
                              <td >L</td>
                              <td >H</td>
@@ -650,7 +650,7 @@ Figure 5(a)
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >L</td>
                              <td >H</td>
@@ -668,7 +668,7 @@ Figure 5(a)
                              </tr>
                              
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>L</td>
                              <td >H</td>
                              <td >L</td>
@@ -687,7 +687,7 @@ Figure 5(a)
                              
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >L</td>
@@ -704,7 +704,7 @@ Figure 5(a)
                              <td>H</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >L</td>
@@ -722,7 +722,7 @@ Figure 5(a)
                              </tr>
                              
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>L</td>
                              <td >H</td>
                              <td >L</td>
@@ -740,7 +740,7 @@ Figure 5(a)
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >H</td>
@@ -759,7 +759,7 @@ Figure 5(a)
                              
                              
                                 
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >H</td>
@@ -779,7 +779,7 @@ Figure 5(a)
                              
                              
                              
-  <tr bgcolor="#FFFFCC">
+  <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >H</td>
@@ -798,7 +798,7 @@ Figure 5(a)
                              
                              
                                
-   <tr bgcolor="#FFFFCC">
+   <tr>
                              <td>L</td>
                              <td >H</td>
                              <td >H</td>

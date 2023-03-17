@@ -23,7 +23,7 @@ This experiment enables a student to learn
 <p>Figure 1(74153)</p>
 </div>
                           
-Strobe | Select      |  Outputs 
+Strobe | Select      ||  Outputs 
 1G     | A     | B   | 1Y
 :--|:--|:--|:--|
 1|x|x|0

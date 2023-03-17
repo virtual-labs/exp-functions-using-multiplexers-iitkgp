@@ -23,29 +23,21 @@ This experiment enables a student to learn
 <p>Figure 1(74153)</p>
 </div>
                           
-Strobe | Select      ||  Outputs 
-1G     | A     | B   | 1Y
-:--|:--|:--|:--|
-1|x|x|0
-0|0|0|1C0
-0|0|0|1C1
-0|0|0|1C2
-0|0|0|1C3
 
 
 
 
 
                            
-<table width="50%"  border="0" cellspacing="1px" cellpadding="2" bgcolor="#999999">
+<table>
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>Strobe</td>
                              <td colspan="2">Select Lines</td>
                              <td>Outputs</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>1G</td>
                              <td >A</td>
                              <td >B</td>
@@ -53,7 +45,7 @@ Strobe | Select      ||  Outputs
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>1</td>
                              <td >x</td>
                              <td >x</td>
@@ -61,7 +53,7 @@ Strobe | Select      ||  Outputs
                              </tr>
                              
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>0</td>
                              <td >0</td>
                              <td >0</td>
@@ -70,21 +62,21 @@ Strobe | Select      ||  Outputs
                              
                              
                              
-<tr bgcolor="#FFFFCC">
+<tr>
                              <td>0</td>
                              <td >0</td>
                              <td >1</td>
                              <td>1C1</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>0</td>
                              <td >1</td>
                              <td >0</td>
                              <td>1C2</td>
                              </tr>
                              
- <tr bgcolor="#FFFFCC">
+ <tr>
                              <td>0</td>
                              <td >1</td>
                              <td >1</td>
@@ -92,7 +84,8 @@ Strobe | Select      ||  Outputs
                              </tr>
                              
 </table>
-                             Figure 2(a)&nbsp;x:don't care state
+
+Figure 2(a)&nbsp;x:don't care state
                            
                              
                              

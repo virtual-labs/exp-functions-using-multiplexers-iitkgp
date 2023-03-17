@@ -435,8 +435,8 @@ select line.
                                                      
   </table>
                                                        
-<br />
-                             Figure 4(d)&nbsp;x:don't care state
+
+Figure 4(d)x:don't care state
                             
 <img src="images/74157circuit.gif"  style="width:500px;height:400px;"/>
                            

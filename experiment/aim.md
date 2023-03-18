@@ -1,1 +1,3 @@
-### Aim of the experiment
+## Aim of the experiment
+- The principal objective of this experiment(Part 1) is to fully understand the functionality of a Dual 4 line to 1 line Multiplexer(IC 74153) and to show the multiplex function of 74153 in terms of select lines. Note that each of the on-chip multiplexers act independently from the other, while sharing the same select lines
+- The principal objective of this experiment(Part 2) is to fully understand the functionality of a Quad 2 line to 1 line Multiplexer(IC 74157) and to show the multiplex function of 74157 in terms of select line. Note that each of the on-chip multiplexers act independently from the other, while sharing the same select line.

@@ -1,0 +1,32 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the function of an enable input on a multiplexer chip?",
+      "answers": {
+        "a": "to apply Vcc",
+        "b": "to connect ground",
+        "c": "to active the entire chip",
+        "d": "to active one half of the chip"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The expansion inputs to a comparator are used for expansion to a(n):",
+      "answers": {
+        "a": "4 bit system",
+        "b": "8 bit system",
+        "c": "BCD system",
+        "d": "counter system"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
+
+
+

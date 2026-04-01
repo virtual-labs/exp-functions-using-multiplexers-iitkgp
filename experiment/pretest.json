@@ -9,12 +9,7 @@
         "c": "DPDT switch",
         "d": "linear stepper"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "combinational logic circuits",
         "d": "several Ex-NOR gates"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "single input, multiple outputs",
         "d": "odd parity to even parity"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
